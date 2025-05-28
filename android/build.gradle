@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdk 34
-    namespace project.group
+    namespace "com.buatbelajar.flutter_jailbreak_detection"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
